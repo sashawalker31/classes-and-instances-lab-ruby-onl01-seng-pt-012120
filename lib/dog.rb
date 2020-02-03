@@ -1,4 +1,12 @@
 class Dog 
-   fido
-  snoopy
-  lassie
+end
+
+fido 
+snoopy 
+lassie 
+
+class Person
+end 
+
+adele_goldberg
+alan_kay
