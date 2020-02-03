@@ -1,2 +1,4 @@
 class Dog 
-  var fido 
+   fido
+  snoopy
+  lassie
