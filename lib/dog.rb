@@ -1,12 +1,15 @@
 class Dog 
+
+
+fido
+snoopy
+lassie 
 end
 
-fido = dog.new 
-snoopy = dog.new
-lassie = dog.new
-
 class Person
-end 
 
-adele_goldberg = person.new
-alan_kay = person.new
+
+adele_goldberg
+alan_kay 
+
+end
